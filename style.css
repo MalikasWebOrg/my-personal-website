@@ -1,10 +1,31 @@
 <link rel= "stylesheet" type="text/css" href="style.css" />
 <style>
  h1 {
-    color: black;
-    align: top left;
+   color: purple;
+   background-color: grey;
+   overflow: hidden;
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: auto;
  }
  h2 {
-    color: black
+    color: violet
     align: top right;
+ }
+ .nav {
+   color: ;
+   background-color: grey;
+   overflow: hidden;
+   position: fixed;
+   top: 0;
+   right: 0;
+   width: 200px;
+ }
+.nav a{
+   color: purple;
+}
+ .nav a:hover {
+   background-color: #ddd;
+   color: white;
  }
