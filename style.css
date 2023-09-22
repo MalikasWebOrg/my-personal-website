@@ -1,21 +1,11 @@
 <link rel= "stylesheet" type="text/css" href="style.css" />
 <style>
- h1 {
-   color: purple;
-   background-color: grey;
-   overflow: hidden;
-   position: fixed;
-   top: 0;
-   left: 0;
-   width: auto;
- }
- h2 {
-    color: violet
-    align: top right;
- }
+h1 {
+   
+}
  .nav {
    color: ;
-   background-color: grey;
+   background-color: white;
    overflow: hidden;
    position: fixed;
    top: 0;
@@ -24,8 +14,27 @@
  }
 .nav a{
    color: purple;
+   
 }
  .nav a:hover {
-   background-color: #ddd;
+   background-color: rgb(46, 44, 44);
    color: white;
+ }
+ .quote {
+  font-style: italic;
+  color: violet;
+  padding: auto;
+  margin: 100px;
+  border: 100px;
+ }
+ h1 {
+   color: rgb(7, 7, 75);
+   border: 100px;
+   padding: 50px;
+   margin: auto;
+   background-color: rgb(149, 98, 207);
+ }
+ .me {
+  color: blueviolet;
+  font-size: x-large;
  }
