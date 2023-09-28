@@ -33,8 +33,10 @@ h1 {
    padding: 50px;
    margin: auto;
    background-color: rgb(149, 98, 207);
+   box-sizing: border-box;
  }
  .me {
   color: blueviolet;
   font-size: x-large;
+
  }
