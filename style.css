@@ -38,3 +38,12 @@ h1 {
   color: blueviolet;
   font-size: x-large;
  }
+ .ContactMe {
+  background-color: purple;
+  margin: 100px;
+  font-style: oblique;
+  font-size: larger;
+  border: 50px;
+  padding: 10px;
+
+ }
